@@ -1,2 +1,2 @@
 def lambda_handler(event,context):
-	print ('Hi there!')
+	print ('Hellow from Git!')

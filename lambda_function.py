@@ -1,2 +1,2 @@
 def lambda_handler(event,context):
-	print ('Hello from Git!! ')
+	print ('Hello. I am coming directly from Git!! ')

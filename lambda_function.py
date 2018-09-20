@@ -1,3 +1,3 @@
 def lambda_handler(event,context):
 	print ('Hi I am coming from git')
-	print ('function updated')
+	print ('Notify lambda event worked')
